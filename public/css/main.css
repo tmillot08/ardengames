@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+    font-family: 'Roboto', sans-serif;  
+}
+nav {
+    background-color:#1A1A1A;
+}
+
+li{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    height: 150px;
+    
+}
+
